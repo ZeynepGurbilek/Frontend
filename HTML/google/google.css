@@ -1,0 +1,46 @@
+.logo{
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+}
+
+html {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.box1{
+    background-color: rgb(126, 229, 218);
+    text-align: center;
+    width: 35%;
+}
+
+.box2{
+    background-color: rgb(112, 204, 194);
+    text-align: center;
+    width: 18%;
+    font-size: small;
+}
+
+.box3{
+    background-color: rgb(98, 179, 170);
+    text-align: center;
+    width: 40%;
+    font-size: small;
+}
+
+
+.center{
+    text-align: center;
+    clear: both;
+    font-size: small;
+}
+
+
+table{
+    min-width: 100%;
+    margin: auto;
+}
